@@ -1,3 +1,3 @@
 # cppdemo
 
-This is a demo for learning cpp.
+This is a repository for learning cpp.
